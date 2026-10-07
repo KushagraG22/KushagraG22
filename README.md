@@ -17,6 +17,7 @@ I'm a student and Python developer interested in building practical applications
 ### Languages
 - Python
 - SQL
+- MongoDB
 
 ### Backend & APIs
 - REST APIs
